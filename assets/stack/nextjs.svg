@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="128" viewBox="0 0 104 128" role="img" aria-label="Next.js">
+  <defs>
+    <linearGradient id="bgnextjs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b4058"/><stop offset="1" stop-color="#14161e"/></linearGradient>
+    <linearGradient id="glossnextjs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <radialGradient id="glownextjs" cx="0.5" cy="1" r="0.75"><stop offset="0" stop-color="#000000" stop-opacity="0.38"/><stop offset="1" stop-color="#000000" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edgenextjs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.45"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.05"/><stop offset="1" stop-color="#000" stop-opacity="0.5"/></linearGradient>
+    <filter id="shnextjs" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="3" stdDeviation="2.4" flood-color="#000" flood-opacity="0.55"/></filter>
+    <filter id="dropnextjs" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.45"/></filter>
+    <clipPath id="clipnextjs"><rect x="6" y="4" width="92" height="92" rx="23"/></clipPath>
+  </defs>
+  <rect x="6" y="4" width="92" height="92" rx="23" fill="url(#bgnextjs)" filter="url(#shnextjs)"/>
+  <rect x="6" y="4" width="92" height="92" rx="23" fill="url(#glownextjs)"/>
+  <g clip-path="url(#clipnextjs)"><ellipse cx="52" cy="2" rx="62" ry="40" fill="url(#glossnextjs)"/></g>
+  <rect x="6.75" y="4.75" width="90.5" height="90.5" rx="22.3" fill="none" stroke="url(#edgenextjs)" stroke-width="1.5"/>
+  <g filter="url(#dropnextjs)"><g transform="translate(26 24) scale(2.1667)"><path d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z" fill="#E5E7EB"/></g></g>
+<text class="caption" x="52" y="122" text-anchor="middle" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="15" fill="#8B949E">Next.js</text>
+</svg>

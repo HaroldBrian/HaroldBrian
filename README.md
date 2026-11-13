@@ -31,42 +31,56 @@
 #### Langages & Frameworks
 
 <p>
-  <img src="assets/stack/typescript.svg" width="64" alt="TypeScript" title="TypeScript">
-  <img src="assets/stack/javascript.svg" width="64" alt="JavaScript" title="JavaScript">
-  <img src="assets/stack/react.svg" width="64" alt="React" title="React">
-  <img src="assets/stack/react-native.svg" width="64" alt="React Native" title="React Native">
-  <img src="assets/stack/expo.svg" width="64" alt="Expo" title="Expo">
-  <img src="assets/stack/nodejs.svg" width="64" alt="Node.js" title="Node.js">
-  <img src="assets/stack/nestjs.svg" width="64" alt="NestJS" title="NestJS">
-  <img src="assets/stack/python.svg" width="64" alt="Python" title="Python">
-  <img src="assets/stack/php.svg" width="64" alt="PHP" title="PHP">
-  <img src="assets/stack/symfony.svg" width="64" alt="Symfony" title="Symfony">
-  <img src="assets/stack/framer-motion.svg" width="64" alt="Framer Motion" title="Framer Motion">
+  <img src="assets/stack/typescript.svg" width="76" alt="TypeScript" title="TypeScript">
+  <img src="assets/stack/javascript.svg" width="76" alt="JavaScript" title="JavaScript">
+  <img src="assets/stack/react.svg" width="76" alt="React" title="React">
+  <img src="assets/stack/react-native.svg" width="76" alt="React Native" title="React Native">
+  <img src="assets/stack/expo.svg" width="76" alt="Expo" title="Expo">
+  <img src="assets/stack/nodejs.svg" width="76" alt="Node.js" title="Node.js">
+  <img src="assets/stack/nestjs.svg" width="76" alt="NestJS" title="NestJS">
+  <img src="assets/stack/nextjs.svg" width="76" alt="Next.js" title="Next.js">
+  <img src="assets/stack/express.svg" width="76" alt="Express" title="Express">
+  <img src="assets/stack/socketio.svg" width="76" alt="Socket.IO" title="Socket.IO">
+  <img src="assets/stack/prisma.svg" width="76" alt="Prisma" title="Prisma">
+  <img src="assets/stack/python.svg" width="76" alt="Python" title="Python">
+  <img src="assets/stack/php.svg" width="76" alt="PHP" title="PHP">
+  <img src="assets/stack/symfony.svg" width="76" alt="Symfony" title="Symfony">
+  <img src="assets/stack/framer-motion.svg" width="76" alt="Framer Motion" title="Framer Motion">
+  <img src="assets/stack/tailwindcss.svg" width="76" alt="Tailwind CSS" title="Tailwind CSS">
+  <img src="assets/stack/vite.svg" width="76" alt="Vite" title="Vite">
 </p>
 
 #### Data Engineering
 
 <p>
-  <img src="assets/stack/sql.svg" width="64" alt="SQL" title="SQL">
-  <img src="assets/stack/pandas.svg" width="64" alt="Pandas" title="Pandas">
-  <img src="assets/stack/pyspark.svg" width="64" alt="PySpark" title="PySpark">
-  <img src="assets/stack/dbt.svg" width="64" alt="dbt" title="dbt">
-  <img src="assets/stack/airflow.svg" width="64" alt="Apache Airflow" title="Apache Airflow">
-  <img src="assets/stack/snowflake.svg" width="64" alt="Snowflake" title="Snowflake">
-  <img src="assets/stack/databricks.svg" width="64" alt="Azure Databricks" title="Azure Databricks">
-  <img src="assets/stack/power-bi.svg" width="64" alt="Power BI" title="Power BI">
+  <img src="assets/stack/sql.svg" width="76" alt="SQL" title="SQL">
+  <img src="assets/stack/pandas.svg" width="76" alt="Pandas" title="Pandas">
+  <img src="assets/stack/pyspark.svg" width="76" alt="PySpark" title="PySpark">
+  <img src="assets/stack/dbt.svg" width="76" alt="dbt" title="dbt">
+  <img src="assets/stack/airflow.svg" width="76" alt="Apache Airflow" title="Apache Airflow">
+  <img src="assets/stack/snowflake.svg" width="76" alt="Snowflake" title="Snowflake">
+  <img src="assets/stack/databricks.svg" width="76" alt="Azure Databricks" title="Azure Databricks">
+  <img src="assets/stack/delta-lake.svg" width="76" alt="Delta Lake" title="Delta Lake">
+  <img src="assets/stack/power-bi.svg" width="76" alt="Power BI" title="Power BI">
+  <img src="assets/stack/looker-studio.svg" width="76" alt="Looker Studio" title="Looker Studio">
+  <img src="assets/stack/mongodb.svg" width="76" alt="MongoDB" title="MongoDB">
+  <img src="assets/stack/mysql.svg" width="76" alt="MySQL" title="MySQL">
 </p>
 
 #### DevOps, Cloud & Outils
 
 <p>
-  <img src="assets/stack/docker.svg" width="64" alt="Docker" title="Docker">
-  <img src="assets/stack/gitlab.svg" width="64" alt="GitLab" title="GitLab">
-  <img src="assets/stack/gitlab-ci.svg" width="64" alt="GitLab CI/CD" title="GitLab CI/CD">
-  <img src="assets/stack/aws.svg" width="64" alt="AWS" title="AWS">
-  <img src="assets/stack/azure.svg" width="64" alt="Azure" title="Azure">
-  <img src="assets/stack/git.svg" width="64" alt="Git" title="Git">
-  <img src="assets/stack/github.svg" width="64" alt="GitHub" title="GitHub">
+  <img src="assets/stack/docker.svg" width="76" alt="Docker" title="Docker">
+  <img src="assets/stack/docker-swarm.svg" width="76" alt="Docker Swarm" title="Docker Swarm">
+  <img src="assets/stack/nginx.svg" width="76" alt="Nginx" title="Nginx">
+  <img src="assets/stack/gitlab.svg" width="76" alt="GitLab" title="GitLab">
+  <img src="assets/stack/gitlab-ci.svg" width="76" alt="GitLab CI/CD" title="GitLab CI/CD">
+  <img src="assets/stack/github-actions.svg" width="76" alt="GitHub Actions" title="GitHub Actions">
+  <img src="assets/stack/vercel.svg" width="76" alt="Vercel" title="Vercel">
+  <img src="assets/stack/aws.svg" width="76" alt="AWS" title="AWS">
+  <img src="assets/stack/azure.svg" width="76" alt="Azure" title="Azure">
+  <img src="assets/stack/git.svg" width="76" alt="Git" title="Git">
+  <img src="assets/stack/github.svg" width="76" alt="GitHub" title="GitHub">
 </p>
 
 ---
@@ -75,10 +89,11 @@
 
 | Période           | Rôle                    | Organisation                                                                                                                             | Réalisations clés                                                                                                                                 |
 | ----------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Depuis sept. 2026 | Développeur             | <img src="assets/companies/mately.png" height="20" align="absmiddle" alt=""> **[Mately](https://mately.gg)** (Reims)                     | Application de mise en relation entre joueurs · React Native, Expo, TypeScript                                                                    |
-| Depuis mars 2024  | CEO                     | <img src="assets/companies/top-nyanga.png" height="20" align="absmiddle" alt=""> **[Top Nyanga](https://topnyanga.com)** (Cameroun)      | Direction du produit et de l'équipe · Application mobile iOS/Android, backend, dashboard et site · Réservation, boutique et paiement Mobile Money |
-| Depuis fév. 2024  | Co-fondateur & Lead Dev | <img src="assets/companies/gesta.png" height="20" align="absmiddle" alt=""> **[Gesta](https://groupgesta.com)** (Douala/Yaoundé · Paris) | Interfaces, APIs, backend et déploiement · Sites vitrines, plateformes métier et applications mobiles pour des clients                            |
-| Depuis janv. 2024 | CTO                     | <img src="assets/companies/mk-sarl.png" height="20" align="absmiddle" alt=""> **[MK Sarl](https://momscompanys.com)** (Yaoundé)          | Direction technique de Mom's Company · Site vitrine Next.js, applications web et mobiles pour les marques du groupe et ses clients                |
+| Depuis sept. 2026 | Développeur             | <img src="assets/companies/mately.svg" height="28" align="absmiddle" alt=""> **[Mately](https://mately.gg)** (Reims)                     | Application de mise en relation entre joueurs · React Native, Expo, TypeScript                                                                    |
+| Janv. – juil. 2025 | Software Engineer II | <img src="assets/companies/fireshield.svg" height="28" align="absmiddle" alt=""> **[Fireshield Security](https://fireshieldsec.com)** (Dakar, Sénégal) | Gestion d'une équipe de développement · Interfaces Next.js, React, Redux · APIs REST Node.js et TypeScript · Stockage sécurisé des fichiers sur AWS (S3, EC2) · Revues de code, Agile/Scrum |
+| Depuis mars 2024  | CEO                     | <img src="assets/companies/top-nyanga.svg" height="28" align="absmiddle" alt=""> **[Top Nyanga](https://topnyanga.com)** (Cameroun)      | Direction du produit et de l'équipe · Application mobile iOS/Android, backend, dashboard et site · Réservation, boutique et paiement Mobile Money |
+| Depuis fév. 2024  | Co-fondateur & Lead Dev | <img src="assets/companies/gesta.svg" height="28" align="absmiddle" alt=""> **[Gesta](https://groupgesta.com)** (Douala/Yaoundé · Paris) | Interfaces, APIs, backend et déploiement · Sites vitrines, plateformes métier et applications mobiles pour des clients                            |
+| Depuis janv. 2024 | CTO                     | <img src="assets/companies/mk-sarl.svg" height="28" align="absmiddle" alt=""> **[MK Sarl](https://momscompanys.com)** (Yaoundé)          | Direction technique de Mom's Company · Site vitrine Next.js, applications web et mobiles pour les marques du groupe et ses clients                |
 
 ---
 
@@ -108,10 +123,20 @@
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HaroldBrian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldBrian&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" alt="Contributions et profil GitHub" src="https://raw.githubusercontent.com/HaroldBrian/HaroldBrian/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<img height="170" alt="Statistiques GitHub" src="https://raw.githubusercontent.com/HaroldBrian/HaroldBrian/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="170" alt="Langages les plus commités" src="https://raw.githubusercontent.com/HaroldBrian/HaroldBrian/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<img height="170" alt="Dépôts par langage" src="https://raw.githubusercontent.com/HaroldBrian/HaroldBrian/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img height="170" alt="Heures de commit" src="https://raw.githubusercontent.com/HaroldBrian/HaroldBrian/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=HaroldBrian&theme=tokyonight&hide_border=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaroldBrian/HaroldBrian/output/snake-dark.svg">
+  <img alt="Serpent qui mange le graphe de contributions" src="https://raw.githubusercontent.com/HaroldBrian/HaroldBrian/output/snake.svg">
+</picture>
 
 </div>
 
