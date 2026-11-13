@@ -15,13 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Commits SVG cards into profile-summary-card-output/ on the default branch.
-      # Add a SUMMARY_GITHUB_TOKEN secret (classic PAT, repo scope) to count private repositories.
+      # The action's docs ask for a PAT (classic: public_repo + read:user) in a SUMMARY_GITHUB_TOKEN secret;
+      # falls back to the built-in token if the secret is missing.
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: 1
+          TIME_ZONE: Europe/Paris
 
   snake:
     runs-on: ubuntu-latest
